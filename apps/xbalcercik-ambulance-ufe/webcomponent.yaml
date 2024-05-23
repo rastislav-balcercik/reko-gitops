@@ -8,7 +8,10 @@ spec:
                      # - umiestnený v namespace wac-hospital
   navigation:
     - element: xbalc-ambulance-landing    # element, ktorý bude vložený na stránku
-                                    # pri navigácii na zoznam čakajúcich
+                                    # pri navigácii na zoznam 
+      attributes:
+      - name: api-base
+        value: http://localhost:30081/api
       path: xbalcercik-ambulance-reko      # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: Balcercik - Recovery support     # názov mikro aplikácie
       details: Spravuje požiadavky pacientov po vyšetrení alebo zákroku
