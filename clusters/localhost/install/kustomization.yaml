@@ -10,7 +10,7 @@ commonLabels:
 
 resources:
   - ../../../apps/xbalcercik-ambulance-ufe
-    - ../../../apps/xbalcercik-ambulance-webapi
+  - ../../../apps/xbalcercik-ambulance-webapi
 
 components:
   - ../../../components/version-developers
