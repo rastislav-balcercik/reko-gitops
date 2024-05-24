@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: rbalcercik/reko-wl-webapi
   newName: rbalcercik/reko-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-  newTag: main.20240524.0013 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+  newTag: main.20240524.0018 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
 - name: rbalcercik/reko-ufe
   newName: rbalcercik/reko-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
   newTag: main.20240523.2250 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
