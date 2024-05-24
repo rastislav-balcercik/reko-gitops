@@ -11,7 +11,7 @@ spec:
                                     # pri navigácii na zoznam 
       attributes:
       - name: api-base
-        value: http://localhost:30081/api
+        value: /xbalcercik-api
       path: xbalcercik-ambulance-reko      # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: Balcercik - Recovery support     # názov mikro aplikácie
       details: Spravuje požiadavky pacientov po vyšetrení alebo zákroku
