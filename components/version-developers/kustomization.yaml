@@ -9,4 +9,4 @@ images:
   newTag: 1.7.3 # {"$imagepolicy": "wac-hospital:ufe-controller:tag"}
 - name: rbalcercik/reko-wl-webapi
   newName: rbalcercik/reko-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-  newTag: main.20240524.1029 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+  newTag: main.20240524.1259 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
